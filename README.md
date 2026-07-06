@@ -481,13 +481,13 @@ This project is licensed under the MIT License.
 
 **Ashikur Rahman**
 
-GitHub: https://github.com/yourusername
+GitHub: https:[//github.com/yourusername](https://github.com/ashikur-255)
 
-LinkedIn: https://linkedin.com/in/yourprofile
+LinkedIn: https:[//linkedin.com/in/yourprofile](https://www.linkedin.com/in/ashikur-rahman-134300159/)
 
 Portfolio: https://yourportfolio.com
 
-Email: your@email.com
+Email: ashikurr255@email.com
 
 ---
 

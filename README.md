@@ -38,7 +38,8 @@ https://your-api-url.com
 
 ## Home Page
 
-![Home](screenshots/home.png)
+![Home]<img width="2856" height="1540" alt="image" src="https://github.com/user-attachments/assets/512aaaef-d93b-4031-813e-556b01448c29" />
+
 
 ---
 

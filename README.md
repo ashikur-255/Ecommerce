@@ -45,37 +45,51 @@ https://your-api-url.com
 
 ## Shop Page
 
-![Shop](screenshots/shop.png)
+![Shop]<img width="2866" height="1532" alt="image" src="https://github.com/user-attachments/assets/e09cfeb9-9dcc-4bb9-bdec-6a6fcb121eeb" />
+
 
 ---
 
 ## Product Details
 
-![Product](screenshots/product-details.png)
+![Product]<img width="2844" height="1536" alt="image" src="https://github.com/user-attachments/assets/415e03af-457d-4fd9-9c56-7b6b5683ebf2" />
+
 
 ---
 
 ## Shopping Cart
 
-![Cart](screenshots/cart.png)
+![Cart]<img width="2874" height="1540" alt="image" src="https://github.com/user-attachments/assets/e76d55b6-032c-4b4f-aa36-6f2d6eacb9a2" />
+
 
 ---
 
 ## Checkout
 
-![Checkout](screenshots/checkout.png)
+![Checkout]<img width="2866" height="1532" alt="image" src="https://github.com/user-attachments/assets/a3ca1fca-c12e-454c-ac90-be1e8218b64c" />
+
 
 ---
 
 ## User Dashboard
 
-![User Dashboard](screenshots/user-dashboard.png)
+![User Dashboard]<img width="2866" height="1524" alt="image" src="https://github.com/user-attachments/assets/b2350d88-2221-4abf-8b4f-3c417fd10942" />
+
 
 ---
 
 ## Admin Dashboard
 
-![Admin Dashboard](screenshots/admin-dashboard.png)
+![Admin Dashboard]<img width="2860" height="1542" alt="image" src="https://github.com/user-attachments/assets/9feb383e-6c8e-46c4-b92d-5df9944a3efd" />
+<img width="2846" height="1526" alt="image" src="https://github.com/user-attachments/assets/3062f274-f9b6-4223-a46c-4a0757cea24c" />
+<img width="2836" height="1536" alt="image" src="https://github.com/user-attachments/assets/75b88979-ecd5-4e2a-a728-824127b012e5" />
+<img width="2842" height="1534" alt="image" src="https://github.com/user-attachments/assets/a7f88c71-7882-4cdf-86b2-d5960cbebcd7" />
+<img width="2830" height="1534" alt="image" src="https://github.com/user-attachments/assets/bfad784d-75c1-4a47-9566-e0333623cb16" />
+
+
+
+
+
 
 ---
 

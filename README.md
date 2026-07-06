@@ -26,7 +26,7 @@ The application follows modern development practices including RESTful API archi
 
 ### 🌐 Frontend
 
-https:[//your-frontend-url.com](http://localhost:5173/)
+https:[(http://localhost:5173/)](http://localhost:5173/)
 
 ### 🔗 Backend API
 
